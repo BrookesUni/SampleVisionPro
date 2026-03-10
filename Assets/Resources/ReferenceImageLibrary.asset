@@ -33,7 +33,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 10694919485154843351
       m_GuidHigh: 11306453380145242184
-    m_Size: {x: 0.1, y: 0.035185184}
+    m_Size: {x: 0.06, y: 0.02111111}
     m_SpecifySize: 1
     m_Name: BrookesLogo
     m_Texture: {fileID: 2800000, guid: 8e0edad7fc9b946b486012f17197e89c, type: 3}
